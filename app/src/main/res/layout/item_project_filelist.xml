@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="30dp">
+
+    <RelativeLayout
+        android:id="@+id/total_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    >
+
+        <RelativeLayout
+            android:id="@+id/iv_visibi_gone"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/view1"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:background="@drawable/folder_line"
+                android:visibility="gone"
+                 />
+
+            <View
+                android:id="@+id/view3"
+                android:layout_width="1px"
+                android:layout_height="15dp"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/view1"
+                android:background="#4E9AFD"
+                android:visibility="gone"
+               />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_toRightOf="@+id/view1">
+
+                <ImageView
+                    android:id="@+id/img"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:padding="2dp"
+
+                    android:src="@mipmap/project_spread" />
+
+                <ImageView
+                    android:id="@+id/img1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:padding="5dp"
+                    android:src="@mipmap/frame2x"
+                     />
+
+                <View
+                    android:id="@+id/view2"
+                    android:layout_width="1px"
+                    android:layout_height="15dp"
+                    android:layout_below="@+id/img"
+                    android:layout_centerHorizontal="true"
+                    android:background="#4E9AFD"
+                    android:visibility="gone"
+                   />
+
+                <View
+                    android:id="@+id/view4"
+                    android:layout_width="1px"
+                    android:layout_height="15dp"
+                    android:layout_above="@+id/img"
+                    android:layout_centerHorizontal="true"
+                    android:background="#4E9AFD"
+                    android:visibility="gone"
+                    />
+
+            </RelativeLayout>
+
+
+        </RelativeLayout>
+
+
+        <CheckBox
+            android:id="@+id/iv_select"
+            android:layout_width="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/iv_visibi_gone"
+            android:layout_height="wrap_content"
+            android:button="@drawable/select_timing_cb" />
+
+
+        <ImageView
+            android:id="@+id/iv_folder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/iv_select"
+
+            android:src="@mipmap/folder" />
+
+        <TextView
+            android:id="@+id/tv_file_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="60dp"
+            android:layout_toRightOf="@+id/iv_folder"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="文件夹(1)"
+            android:lines="1"
+            android:ellipsize="middle"
+            android:textColor="#5a5a5f"
+            android:textSize="13sp" />
+
+        <View
+            android:id="@+id/view_select"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:alpha="0.1" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

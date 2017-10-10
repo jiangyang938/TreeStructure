@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\票管家\.android\build-cache\ce57f806cfe85dfa6f7c317647f83c08b285a299\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\TreeStructureDemo\app\build\intermediates\pre-dexed\debug\classes_7d8f8f1148dc449c5f8ae59f1c3d20d3aafe8bd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\TreeStructureDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_2e21be52d7a2954f3a396fc8650065d89839f0fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\票管家\.android\build-cache\37a781df1a89a60fc4cd940ac9d04f2422cbcdaf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\TreeStructureDemo\app\build\intermediates\pre-dexed\debug\classes_a63c47e6588947ce39cca372d9d31bab49d95ce9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\TreeStructureDemo\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_3120778461c752fb38a093087b795f60f7049459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\票管家\.android\build-cache\a0888aa0d7d701fd68ac2ecc87358cea6fd86e6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\TreeStructureDemo\app\build\intermediates\pre-dexed\debug\classes_d596ad8bbb0bffef13cfe45e74290a1940baf918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\票管家\.android\build-cache\86aa779a474c220a7e8503f88826782df6409ef3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\TreeStructureDemo\app\build\intermediates\pre-dexed\debug\classes_6c1f0112162320306e76bebd1bfd52bebc125b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\票管家\.android\build-cache\4b14ede2ac5977df0ff22041e6a27aa907050cbb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\TreeStructureDemo\app\build\intermediates\pre-dexed\debug\classes_bc2ab21496f7e7a4c62e2aa2ed8b97e2fc3f1e95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\票管家\.android\build-cache\5f00dfdeb3882ccd494380be341ad47a18eb3868\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\TreeStructureDemo\app\build\intermediates\pre-dexed\debug\classes_ce8e84159bec58718444b337997c66e8e0240245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\票管家\.android\build-cache\285bb7556a02f19b3c40e8e98b3e97638966f5a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\TreeStructureDemo\app\build\intermediates\pre-dexed\debug\classes_e3999566f2847d142844232ddbe1e715d5098eaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\票管家\.android\build-cache\e23561efe30afc55eba6c53d8cf770ca083ae931\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\TreeStructureDemo\app\build\intermediates\pre-dexed\debug\classes_c36f5e575a25d5bb212a5ae18e38f4663eedc87b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\票管家\.android\build-cache\ae54366ef8bbf17c570e5552ea3512133abf516c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\TreeStructureDemo\app\build\intermediates\pre-dexed\debug\classes_91bc3f267fc40d2a0e1b47e19d040dcc2f2b614d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\票管家\.android\build-cache\cb4d0933adc795d4c5378e87ab20afe1cc213384\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\TreeStructureDemo\app\build\intermediates\pre-dexed\debug\classes_f0688ef82ea648acffde2b1a946da74782e366a7.jar" />
+    </item>
+
+</items>
